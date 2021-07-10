@@ -64,31 +64,60 @@ Once again, don't add too much. Try to limit badges to a single line.
 -->
 
 <!--
-Some general guidelines:
-
-1. Always break lines! Set your editor to show a ruler at ~80 characters.
-   This is done so that if people are reading this as a raw file, they don't
-	 have to scroll infinitely. 
-
-	 This is not a hard and fast rule though, and it can be broken.
-	 Sometimes it makes sense to break at other places. This paragraph is an example.
-   Also, you don't have to break a line for that one last word which overflows 
-	 (except if it is "Pneumonoultramicroscopicsilicovolcanoconiosis" or something).
-
-Check out [the documentation compendium][doc-compendium] for more tips.
-
-[doc-compendium]: https://github.com/kylelobo/The-Documentation-Compendium
+Before you start, check out the writing guidelines 
+which lives at ./writing-guidelines.md for general writing tips.
 -->
 
 <!--
-Insert a logo/hero image here, if any. A banner is preferred.
+You can place a logo or a banner image near the top of the README. 
+Don't place both, if you want to just place the logo in the banner.
+-->
+
+<!-- 
+Place a logo here. You can also make the logo move to the right by using:
+
+<img src="src" align"right">
+-->
+
+{project-name} is a {tool/utility/feature} which helps you to {whatever it does}.
+Additional line of info about your project. Don't go overboard, people won't
+read it.
+
+<!-- 
+Place a list of highlights here
+-->
+- X and Y support
+- Fast. See {link-to-benchmarks} for more info
+- Small. Only `{n}kb`
+- Dark/Light mode
+- Minimal tooling
+- etc.
+
+<!--
+Place a banner image here.
 
 Always set a background color if any parts of the image do not contrast 
 with black or white. This is done because some images which look good 
 in the light theme won't look good in the dark theme and vice versa.
+
+You can put a short description above the banner if you like.
 -->
 ![{display-name][banner]
 
+<!-- 
+Use this space after the banner to show 2-3 screenshots of what your project does.
+A picture is worth a thousand words. 
+
+Only exception is don't put screenshots if it's just code. 
+Put the code in code blocks. 
+Of course don't do this if you are showcasing some kind of linter for editors, etc.
+-->
+
+<!-- 
+Once you have a clear and concise description of the project,
+direct people to install the project and try it for themselves
+-->
+## Installation
 
 <!--
 Always prefer reference-style links because
