@@ -79,7 +79,7 @@ Place a logo here. You can also make the logo move to the right by using:
 <img src="src" align"right">
 -->
 
-{project-name} is a {tool/utility/feature} which helps you to {whatever it does}.
+{display-name} is a {tool/utility/feature} which helps you to {whatever it does}.
 Additional line of info about your project. Don't go overboard, people won't
 read it.
 
@@ -118,6 +118,40 @@ Once you have a clear and concise description of the project,
 direct people to install the project and try it for themselves
 -->
 ## Installation
+
+### Prerequisites
+
+You need to have X and Y installed. Also, your project must X, Y and Z.
+
+### Installing
+
+<!--
+1. Give them a quick and easy way to install a production version
+2. Show them how they can install previous versions and nightly builds
+-->
+
+To install {display-name}, run the following command:
+
+<!--
+Use the console language because it highlights the prompt
+-->
+```console
+you@computer~$ {install-command}
+```
+
+To install a previous version, run the following command:
+
+```console
+you@computer~$ {install-command}@1.0.3
+you@computer~$ {install-command}@version
+```
+
+<!-- 
+If there are any alternate downloads, show them here.
+
+For example, you may have the option to install a core lightweight option, etc.
+Place them here.
+-->
 
 <!--
 Always prefer reference-style links because
