@@ -96,9 +96,8 @@ Place a list of highlights here
 <!--
 Place a banner image here.
 
-Always set a background color if any parts of the image do not contrast 
-with black or white. This is done because some images which look good 
-in the light theme won't look good in the dark theme and vice versa.
+Prefer setting a background color for your image. 
+This is because you don't know where your image will be placed.
 
 You can put a short description above the banner if you like.
 -->
