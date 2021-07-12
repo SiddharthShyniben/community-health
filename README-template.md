@@ -6,14 +6,15 @@ Thanks for checking this out. If you find this helpful, please leave a star!
 If you have any suggestions, feel free to open a pull request or an issue.
 
 To make life easier, do a quick search-and-replace for:
-{display-name}: The project's display name
-{repo-name}: The name of the repo the project
-{github-username}: The username under which the repo is
+{display-name}: The project's display name (ex. Angular)
+{repo-name}: The name of the repo the project (ex. angular)
+{github-username}: The username under which the repo is (ex. angular)
+{install-command}: The command to install the project (ex. npm install @angular/cli)
 
 Make sure to read through the whole README.
 -->
 
-<!-- 
+<!--
 Badges are a great way to show tiny tidbits of info.
 They also attract the eye but don't overuse them.
 
@@ -23,21 +24,21 @@ Quick note, remove the comments/move them all to the top so that the comments
 render properly.
 -->
 
-<!-- 
-Repo size is more "universal" than, say, npm package size. 
+<!--
+Repo size is more "universal" than, say, npm package size.
 Feel free to change this.
 -->
 ![GitHub repo size][repo-size]
 
-<!-- 
+<!--
 Just to encourage others to contribute.
 -->
 [![GitHub contributors][contributors]][contributors-url]
 
 <!--
-You may be thinking, 
+You may be thinking,
 
-"why is there a badge for stars (and stuff)? 
+"why is there a badge for stars (and stuff)?
 aren't they already shown on the repo's homepage?"
 
 Well, the fact is this README may be shown in other places.
@@ -50,7 +51,7 @@ If this README is supposed to be only on GitHub, feel free to remove these badge
 
 <!--
 Here's a bunch of commonly used badges to save a visit to shields.io.
-You can uncomment them if you want. Don't forget to uncomment and fill 
+You can uncomment them if you want. Don't forget to uncomment and fill
 their respective references at the bottom of the page.
 
 [![GitHub Workflow Status][workflow-status]][workflow-url]
@@ -64,55 +65,56 @@ Once again, don't add too much. Try to limit badges to a single line.
 -->
 
 <!--
-Before you start, check out the writing guidelines 
+Before you start, check out the writing guidelines
 which lives at ./writing-guidelines.md for general writing tips.
 -->
 
 <!--
-You can place a logo or a banner image near the top of the README. 
+You can place a logo or a banner image near the top of the README.
 Don't place both, if you want to just place the logo in the banner.
 -->
 
-<!-- 
+<!--
 Place a logo here. You can also make the logo move to the right by using:
 
 <img src="src" align"right">
 -->
 
+<!--
+This is where we start with the description. Keep it short, but convincing.
+-->
 {display-name} is a {tool/utility/feature} which helps you to {whatever it does}.
 Additional line of info about your project. Don't go overboard, people won't
 read it.
 
-<!-- 
-Place a list of highlights here
--->
-- X and Y support
-- Fast. See {link-to-benchmarks} for more info
-- Small. Only `{n}kb`
-- Dark/Light mode
-- Minimal tooling
-- etc.
-
 <!--
 Place a banner image here.
 
-Prefer setting a background color for your image. 
+Prefer setting a background color for your image.
 This is because you don't know where your image will be placed.
 
 You can put a short description above the banner if you like.
 -->
 ![{display-name][banner]
 
-<!-- 
+<!--
 Use this space after the banner to show 2-3 screenshots of what your project does.
-A picture is worth a thousand words. 
+A picture is worth a thousand words.
 
-Only exception is don't put screenshots if it's just code. 
-Put the code in code blocks. 
+Only exception is don't put screenshots if it's just code.
+Put the code in code blocks.
 Of course don't do this if you are showcasing some kind of linter for editors, etc.
 -->
 
-<!-- 
+<!--
+Place a list of highlights here
+-->
+
+- Fast. See {link-to-benchmarks} for more info
+- Small. Only `{n}kb`
+- etc.
+
+<!--
 Once you have a clear and concise description of the project,
 direct people to install the project and try it for themselves
 -->
@@ -120,6 +122,9 @@ direct people to install the project and try it for themselves
 
 ### Prerequisites
 
+<!--
+State the minimal prerequisites.
+-->
 You need to have X and Y installed. Also, your project must X, Y and Z.
 
 ### Installing
@@ -145,18 +150,20 @@ you@computer~$ {install-command}@1.0.3
 you@computer~$ {install-command}@version
 ```
 
-<!-- 
+<!--
 If there are any alternate downloads, show them here.
 
 For example, you may have the option to install a core lightweight option, etc.
 Place them here.
 -->
 
+
+
 <!--
 Always prefer reference-style links because
 1. They are easy to maintain
-2. There is always going to be that person 
-   who is reading this in an editor/as a raw file. 
+2. There is always going to be that person
+   who is reading this in an editor/as a raw file.
 -->
 [repo-size]: https://img.shields.io/github/repo-size/{github-username}/{repo-name}
 
@@ -186,5 +193,5 @@ Extra badges. See top for more info.
 [license]: https://img.shields.io/github/license/github-username/{repo-name}
 [license-url]: ./LICENSE
 
-[page-hits]: https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgithub-username%2Frepo-name&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false
+[page-hits]: https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{github-username}%2F{repo-name}&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false
 -->
