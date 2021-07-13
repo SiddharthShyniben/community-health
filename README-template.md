@@ -235,7 +235,7 @@ const {repo-name} = require('{repo-name}');
 <!--
 Link to the docs for bonus points!
 -->
-_To view more examples, check out the [Documentation][docs]
+_To view more examples, check out the [Documentation][docs]_
 
 ## Contributing
 
