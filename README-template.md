@@ -237,6 +237,13 @@ Link to the docs for bonus points!
 -->
 _To view more examples, check out the [Documentation][docs]_
 
+<!--
+Contributing
+============
+
+Show the users where to go to contribute, and also show them how they can find
+out what they can help with
+-->
 ## Contributing
 
 All contributions are welcome. Learn more about contributing in
