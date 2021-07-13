@@ -2,6 +2,8 @@
 
 <!--
 Hey there!
+==========
+
 Thanks for checking this out. If you find this helpful, please leave a star!
 If you have any suggestions, feel free to open a pull request or an issue.
 
@@ -11,31 +13,43 @@ To make life easier, do a quick search-and-replace for:
 {github-username}: The username under which the repo is (ex. angular)
 {install-command}: The command to install the project (ex. npm install @angular/cli)
 
-Make sure to read through the whole README.
+**Make sure to read through the whole README.**
 -->
 
 <!--
+Badges
+======
+
 Badges are a great way to show tiny tidbits of info.
 They also attract the eye but don't overuse them.
 
 You can also make these badges link to relevant pages.
 
-Quick note, remove the comments/move them all to the top so that the comments
+Quick note, remove the comments/move them all to the top so that the badges
 render properly.
 -->
 
 <!--
+Repo size badge
+===============
+
 Repo size is more "universal" than, say, npm package size.
 Feel free to change this.
 -->
 ![GitHub repo size][repo-size]
 
 <!--
+Contributors badge
+=================
+
 Just to encourage others to contribute.
 -->
 [![GitHub contributors][contributors]][contributors-url]
 
 <!--
+Stars and forks badges
+======================
+
 You may be thinking,
 
 "why is there a badge for stars (and stuff)?
@@ -50,6 +64,9 @@ If this README is supposed to be only on GitHub, feel free to remove these badge
 [![GitHub forks][forks]][forks-url]
 
 <!--
+Other badges
+============
+
 Here's a bunch of commonly used badges to save a visit to shields.io.
 You can uncomment them if you want. Don't forget to uncomment and fill
 their respective references at the bottom of the page.
@@ -65,22 +82,33 @@ Once again, don't add too much. Try to limit badges to a single line.
 -->
 
 <!--
+Writing guidelines
+==================
+
 Before you start, check out the writing guidelines
 which lives at ./writing-guidelines.md for general writing tips.
 -->
 
 <!--
+Images
+======
+
 You can place a logo or a banner image near the top of the README.
 Don't place both, if you want to just place the logo in the banner.
 -->
 
 <!--
-Place a logo here. You can also make the logo move to the right by using:
+Logo
+====
 
-<img src="src" align"right">
+Place a logo here. You can also make the logo move to the right for a cool effect
+by using `<img align"right">`
 -->
 
 <!--
+Description
+===========
+
 This is where we start with the description. Keep it short, but convincing.
 -->
 {display-name} is a {tool/utility/feature} which helps you to {whatever it does}.
@@ -88,6 +116,9 @@ Additional line of info about your project. Don't go overboard, people won't
 read it.
 
 <!--
+Banner
+======
+
 Place a banner image here.
 
 Prefer setting a background color for your image.
@@ -98,15 +129,19 @@ You can put a short description above the banner if you like.
 ![{display-name][banner]
 
 <!--
-Use this space after the banner to show 2-3 screenshots of what your project does.
-A picture is worth a thousand words.
+Other Screenshots
+=================
 
-Only exception is don't put screenshots if it's just code.
-Put the code in code blocks.
-Of course don't do this if you are showcasing some kind of linter for editors, etc.
+Use this space after the banner to show 2-3 screenshots (or GIFs)
+of what your project does. A picture is worth a thousand words.
+
+Only exception is don't put screenshots of code. Put the code in code blocks.
 -->
 
 <!--
+Highlights
+==========
+
 Place a list of highlights here
 -->
 
