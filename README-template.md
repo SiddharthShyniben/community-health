@@ -25,7 +25,7 @@ Your README should be a gateway to all other resource. It should answer these
 questions as fast as possible:
 1. What is the project for? (A short description)
 2. Can I use it? (Prerequisites)
-3. If yes, how do I install it? (Installation)
+3. If yes, how do I install it? (Installation, Usage examples, etc.)
 4. How can I help? (License, Contributing, etc.)
 -->
 
@@ -215,9 +215,27 @@ For example, you may have the option to install a core lightweight option, etc.
 Place them here.
 -->
 
+<!--
+Usage
+=====
 
+Show a minimal code example to integrate your program with their code. 
+It can be a terminal command to run, or a function to call, etc.
+-->
+## Usage
 
+To use {display-name}, simply call `someFunction()`:
 
+```js
+const {repo-name} = require('{repo-name}');
+
+{repo-name}.someFunction(options);
+```
+
+<!--
+Link to the docs for bonus points!
+-->
+_To view more examples, check out the [Documentation][docs]
 
 <!--
 Link references
@@ -260,4 +278,6 @@ See top for more info.
 [license-url]: ./LICENSE
 
 [page-hits]: https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{github-username}%2F{repo-name}&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false
+
+[docs]: ./docs/start.md
 -->
