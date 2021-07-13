@@ -1,4 +1,4 @@
-# {display-name}
+# [{display-name}][github-homepage]
 
 <!--
 Hey there!
@@ -253,6 +253,7 @@ Always prefer reference-style links because
 2. There is always going to be that person
    who is reading this in an editor/as a raw file.
 -->
+[github-homepage]: https://github.com/{github-username}/{repo-name}
 [repo-size]: https://img.shields.io/github/repo-size/{github-username}/{repo-name}
 
 [stars]: https://img.shields.io/github/stars/{github-username}/{repo-name}
@@ -265,6 +266,9 @@ Always prefer reference-style links because
 [forks-url]: https://github.com/{github-username}/{repo-name}/network/members
 
 [banner]: ./assets/banner.gif
+[docs]: ./docs/start.md
+[contributing]: ./CONTRIBUTING.md
+[contribute]: https://github.com/{github-username}/{repo-name}/contribute
 
 <!--
 Extra badges
@@ -285,8 +289,4 @@ See top for more info.
 [license-url]: ./LICENSE
 
 [page-hits]: https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{github-username}%2F{repo-name}&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false
-
-[docs]: ./docs/start.md
-[contributing]: ./CONTRIBUTING.md
-[contribute]: https://github.com/{github-username}/{repo-name}/contribute
 -->
