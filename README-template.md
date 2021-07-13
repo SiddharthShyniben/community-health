@@ -263,6 +263,16 @@ Show them how they can _personally_ contact you
 You can contact me at <{email-address}>
 
 <!--
+License
+=======
+
+Just quickly link to the License
+-->
+## License
+
+This project uses the [{license}][license] license.
+
+<!--
 Link references
 ===============
 
@@ -284,9 +294,13 @@ Always prefer reference-style links because
 [forks-url]: https://github.com/{github-username}/{repo-name}/network/members
 
 [banner]: ./assets/banner.gif
+
 [docs]: ./docs/start.md
+
 [contributing]: ./CONTRIBUTING.md
 [contribute]: https://github.com/{github-username}/{repo-name}/contribute
+
+[license]: ./LICENSE
 
 <!--
 Extra badges
