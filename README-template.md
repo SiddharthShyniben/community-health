@@ -50,7 +50,7 @@ Repo size badge
 Repo size is more "universal" than, say, npm package size.
 Feel free to change this.
 -->
-![GitHub repo size][repo-size]
+![GitHub repository size][repo-size]
 
 <!--
 Contributors badge
@@ -238,7 +238,6 @@ Link to the docs for bonus points!
 -->
 _To view more examples, check out the [Documentation][docs]_
 
-
 <!--
 A change
 ========
@@ -286,7 +285,6 @@ This project uses the [{license}][license] license.
 Extra headings
 ==============
 
-
 You may want to add these extra sections to your README:
 
 - FAQ: If your project keeps getting the same questions again and again, add this.
@@ -308,7 +306,7 @@ Link references
 Always prefer reference-style links because
 1. They are easy to maintain
 2. There is always going to be that person
-   who is reading this in an editor/as a raw file.
+	 who is reading this in an editor/as a raw file.
 -->
 [github-homepage]: https://github.com/{github-username}/{repo-name}
 [repo-size]: https://img.shields.io/github/repo-size/{github-username}/{repo-name}
