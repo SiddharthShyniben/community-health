@@ -140,7 +140,7 @@ This is because you don't know where your image will be placed.
 
 You can put a short description above the banner if you like.
 -->
-![{display-name][banner]
+![{display-name}][banner]
 
 <!--
 Other Screenshots
