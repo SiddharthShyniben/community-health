@@ -22,6 +22,8 @@ There are also other resources.
 You can copy all the community health files you want. 
 The files live at `[file]-template.md`. For example the README lives at [`README-template.md`](./README-template.md)
 
+There are also other files, like [`writing-guidelines.md`](./writing-guidelines.md)
+
 ## Contributing
 
 All contributions are welcome. Learn more about contributing in
