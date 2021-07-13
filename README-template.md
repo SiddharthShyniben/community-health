@@ -238,6 +238,16 @@ Link to the docs for bonus points!
 -->
 _To view more examples, check out the [Documentation][docs]_
 
+
+<!--
+A change
+========
+
+We've reached the point where most people leave the site. If people are still here,
+that means they are really interested in the project, ie. Possible contributors.
+Keep your writing contributor-friendly from here, and link to all contributing resources.
+-->
+
 <!--
 Contributing
 ============
