@@ -283,6 +283,25 @@ Just quickly link to the License
 This project uses the [{license}][license] license.
 
 <!--
+Extra headings
+==============
+
+
+You may want to add these extra sections to your README:
+
+- FAQ: If your project keeps getting the same questions again and again, add this.
+			 Keep this section above Contact, but below Usage.
+- Contributors: If you have only a few contributors, you could add this section.
+								You could follow something like the all-contributors spec.
+- Acknowledgements: If you have used the source code of any other projects, etc.
+										Link to the respective projects
+- Related: Related projects.
+- Roadmap: Link to a Roadmap (or just embed it)
+
+And more! It all depends on your project.
+-->
+
+<!--
 Link references
 ===============
 
