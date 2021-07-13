@@ -12,6 +12,7 @@ To make life easier, do a quick search-and-replace for:
 {repo-name}: The name of the repo the project (ex. angular)
 {github-username}: The username under which the repo is (ex. angular)
 {install-command}: The command to install the project (ex. npm install @angular/cli)
+{email-address}: The email address where to reach you
 Keep a lookout for text in curly braces.
 
 **Make sure to read through the whole README.**
@@ -250,6 +251,16 @@ All contributions are welcome. Learn more about contributing in
 the [CONTRIBUTING][contributing] file.
 
 Not sure what to contribute? Check out the [GitHub "contribute" page][contribute]
+
+<!--
+Contact
+=======
+
+Show them how they can _personally_ contact you
+-->
+## Contact
+
+You can contact me at <{email-address}>
 
 <!--
 Link references
