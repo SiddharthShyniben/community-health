@@ -12,15 +12,15 @@ There are also other resources.
 ![Community Health][banner]
 
 - Contains more than just templates. General advice, guidelines and more!
-- Highly annotated. Annotation makes up **75.92%** of the file.
+- Highly annotated. Annotation makes up **an average of 75.92%** of the file.
 - Clean and concise.
 
 ## Usage
 
 > Find this useful? Give us a star!
 
-You can copy all the community health files you want. 
-The files live at `[file]-template.md`. For example the README lives at [`README-template.md`](./README-template.md)
+You can copy all the community health files you want. The files live at `templates/`.
+To view a full list of available (and upcoming) files, check out [available-files.md](./available-files.md)
 
 There are also other files, like [`writing-guidelines.md`](./writing-guidelines.md)
 
