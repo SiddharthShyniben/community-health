@@ -232,6 +232,13 @@ const {repo-name} = require('{repo-name}');
 {repo-name}.someFunction(options);
 ```
 
+## Contributing
+
+All contributions are welcome. Learn more about contributing in
+the [CONTRIBUTING][contributing] file.
+
+Not sure what to contribute? Check out the [GitHub "contribute" page][contribute]
+
 <!--
 Link to the docs for bonus points!
 -->
@@ -280,4 +287,6 @@ See top for more info.
 [page-hits]: https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{github-username}%2F{repo-name}&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false
 
 [docs]: ./docs/start.md
+[contributing]: ./CONTRIBUTING.md
+[contribute]: https://github.com/{github-username}/{repo-name}/contribute
 -->
