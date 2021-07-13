@@ -12,8 +12,21 @@ To make life easier, do a quick search-and-replace for:
 {repo-name}: The name of the repo the project (ex. angular)
 {github-username}: The username under which the repo is (ex. angular)
 {install-command}: The command to install the project (ex. npm install @angular/cli)
+Keep a lookout for text in curly braces.
 
 **Make sure to read through the whole README.**
+-->
+
+<!--
+Core concepts
+=============
+
+Your README should be a gateway to all other resource. It should answer these
+questions as fast as possible:
+1. What is the project for? (A short description)
+2. Can I use it? (Prerequisites)
+3. If yes, how do I install it? (Installation)
+4. How can I help? (License, Contributing, etc.)
 -->
 
 <!--
@@ -150,15 +163,25 @@ Place a list of highlights here
 - etc.
 
 <!--
+Installation
+============
+
 Once you have a clear and concise description of the project,
 direct people to install the project and try it for themselves
 -->
 ## Installation
 
+<!--
+Prerequisites
+=============
+
+First, show people what they need to install this library.
+-->
+
 ### Prerequisites
 
 <!--
-State the minimal prerequisites.
+Make sure to link to the resource needed
 -->
 You need to have X and Y installed. Also, your project must X, Y and Z.
 
@@ -194,7 +217,12 @@ Place them here.
 
 
 
+
+
 <!--
+Link references
+===============
+
 Always prefer reference-style links because
 1. They are easy to maintain
 2. There is always going to be that person
@@ -214,7 +242,10 @@ Always prefer reference-style links because
 [banner]: ./assets/banner.gif
 
 <!--
-Extra badges. See top for more info.
+Extra badges
+============
+
+See top for more info.
 
 [workflow-status]: https://img.shields.io/github/workflow/status/{github-username}/{repo-name}/{workflow-name}
 [workflow-url]: https://github.com/{github-username}/{repo-name}/actions
