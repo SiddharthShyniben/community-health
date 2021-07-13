@@ -232,17 +232,17 @@ const {repo-name} = require('{repo-name}');
 {repo-name}.someFunction(options);
 ```
 
+<!--
+Link to the docs for bonus points!
+-->
+_To view more examples, check out the [Documentation][docs]
+
 ## Contributing
 
 All contributions are welcome. Learn more about contributing in
 the [CONTRIBUTING][contributing] file.
 
 Not sure what to contribute? Check out the [GitHub "contribute" page][contribute]
-
-<!--
-Link to the docs for bonus points!
--->
-_To view more examples, check out the [Documentation][docs]
 
 <!--
 Link references
