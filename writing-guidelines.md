@@ -21,8 +21,10 @@ Here are some general writing guidelines:
       you don't want people reading HTML! Only use HTML if it is really helpful
       to the readability of the rendered content. A good example of when to use
       an HTML tag is the `<details>` tag.
+      
+    - **Use reference style links**
 
-2.  **iKeep a light, friendly tone**. Write as if the reader doesn't know too much but
+2.  **Keep a light, friendly tone**. Write as if the reader doesn't know too much but
     is really interested
 
 3.  **Keep it brief**
