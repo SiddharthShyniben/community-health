@@ -2,8 +2,8 @@
 
 Here's a list of available files
 
-- **README.md** - Check out templates/README.md
-- **Contributing** - Check out templates/CONTRIBUTING.md
+- **README.md** - Check out templates/README.md <!-- 75.92% comments -->
+- **Contributing** - Check out templates/CONTRIBUTING.md <!-- 19.82% comments -->
 
 This files are not available:
 
