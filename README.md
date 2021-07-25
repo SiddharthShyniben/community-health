@@ -12,7 +12,8 @@ There are also other resources.
 ![Community Health][banner]
 
 - Contains more than just templates. General advice, guidelines and more!
-- Highly annotated. Annotation makes up **an average of 75.92%** of the file.
+- Contains README, CONTRIBUTING, and more coming soon!
+- Highly annotated. Annotation makes up **an average of 47.87%** of the file.
 - Clean and concise.
 
 ## Usage
