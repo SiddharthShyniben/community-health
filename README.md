@@ -13,7 +13,7 @@ There are also other resources.
 
 - Contains more than just templates. General advice, guidelines and more!
 - Contains README, CONTRIBUTING, and more coming soon!
-- Highly annotated. Annotation makes up **an average of 47.87%** of lines.
+- Highly annotated. Annotation makes up **an average of 40.05%** of lines.
 - Clean and concise.
 
 ## Usage
