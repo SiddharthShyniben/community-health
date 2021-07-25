@@ -24,15 +24,10 @@ Core concepts
 3. Show how to develop locally
 -->
 
-<!--
-This file is not as annotated as usual; You can fix this with a PR. I think
-this file is pretty self explanatory though.
--->
-
 **✨👍First off, thanks for taking the time to contribute to {display-name}!👍✨**
 
 These are a set of guidelines on how to contribute to {display-name}.
-**They are mostly guidelines, not rules.** Use your best judgement, and feel free
+**They are only guidelines, not rules.** Use your best judgment and feel free
 to propose changes to this guide.
 
 Before you contribute, **make sure to read the [Code of Conduct](./CODE_OF_CONDUCT).**
@@ -67,7 +62,7 @@ Before you contribute, **make sure to read the [Code of Conduct](./CODE_OF_CONDU
 </details>
 
 <!--
-Code of Conduct – first thing to show.
+Code of Conduct – the first thing to show.
 -->
 ## Code of Conduct
 
@@ -79,7 +74,7 @@ you are expected to uphold this code. Please report unacceptable behavior to <{e
 There are times when people have doubts about how things work and why they work
 that way
 -->
-## I don't want to read this whole thing, I just have a question!!!
+## I don't want to read this whole thing. I just have a question!!!
 
 <!--
 Add ways to ask questions here. There are many ways
@@ -104,23 +99,23 @@ How can I contribute?
 ## How can I contribute?
 
 <!--
-Tell them how they can report bugs
+Tell them how they can report bugs.
 -->
 ### Reporting bugs
 
-> **If the bug is a security vulnerability, do not open an issue for it!**
-> **Send an email to <{email}>, and you will recieve instructions from there**
+> **If you want to report a security vulnerability, do not open an issue for it!**
+> **Send an email to <{email}>, and you will receive instructions from there**
 >
 > Also, check out [The security guidelines](./SECURITY.md)
 
 This section guides you through submitting a bug report for {display-name}.
-Following these guidelines helps maintainers and the community understand
-your report, reproduce the behavior, and find related reports.
+Following these guidelines helps maintainers and the community understand your issue,
+reproduce the behavior, and find related reports.
 
 Before writing a bug report, please check [this list](#before-submitting-a-bug-report)
-as you might find out that you don't need to create one. When you are creating
+as you might find out that you don't need to create one. When create
 a bug report, please [include as much information as possible](#how-do-i-submit-a-good-bug-report).
-Fill out [the required template][new-issue], the information it asks
+Fill out [the required template][new-issue]. The information it asks
 for helps us resolve issues faster.
 
 #### Before Submitting A Bug Report
@@ -134,7 +129,7 @@ for helps us resolve issues faster.
 - **Make sure that all your own code is logical and proper**. Use your instincts.
   Maybe a proofread by someone else may help.
 - **Perform a search on GitHub and Google** to see if this has happened before.
-  If it has, add a comment to the existing issue instead of opening a new one.
+  If it has, comment on the issue instead of opening a new one.
 
 #### How Do I Submit A (Good) Bug Report?
 
@@ -146,16 +141,17 @@ and provide the following information by filling in the [template][new-issue].
 - **Describe the exact steps which reproduce the problem** in as many details as possible.
   For example, start by explaining how you loaded the project, which CDN you used,
   etc. When listing steps, don't just say what you did, but explain how you did it.
-  For example, if you moved the cursor to the end of a line, explain if you used
-  the mouse, or a keyboard shortcut, and if so which one?
+  For example: if you moved the cursor to the end of a line,
+  explain if you used the mouse or a keyboard shortcut.
+  And if you used a keyboard shortcut, which one?
 - **Provide specific examples** to demonstrate the steps. Include links to files
   or GitHub projects, or copy/paste-able snippets, which you use in those examples.
   If you're providing snippets in the issue, use Markdown code blocks.
 - **Describe the behavior** you observed after following the steps and point out
   **what exactly is the problem** with that behavior.
 - **Explain which behavior you expected** to see instead and why.
-- **Include screenshots and animated GIFs** which show you following the described
-  steps and clearly demonstrate the problem. If you use the keyboard while following
+- **Include screenshots and animated GIFs** which show you following the described steps
+  and clearly demonstrate the problem. If you use the keyboard while following
   the steps, record the GIF with a keybinding visualizer like [Keycastr][keycastr].
   You can use [this tool][licecap] to record GIFs on macOS and Windows, and
   [this tool][silentcast] on Linux.
@@ -164,13 +160,12 @@ and provide the following information by filling in the [template][new-issue].
   information using the guidelines below.
 
 **Provide more context by answering these questions:**
-- **Did the problem start happening recently** (e.g. after updating to a new
-  version of {display-name}) or was this always a problem?
-  - If the problem started happening recently, **can you reproduce the problem
-    in an older version** of {display-name}? What's the most recent version
-    in which the problem doesn't happen?
-- **Can you reliably reproduce the issue?** If not, provide details about
-  how often the problem happens** and under which conditions it normally happens.
+- **Did the problem start happening recently** (after updating to a new version of
+  {display-name}) or, was this always a problem?
+  - If the problem started happening recently, **can you reproduce it in an older version**
+  - of {display-name}? What's the most recent version in which the problem doesn't happen?
+- **Can you reliably reproduce the issue?** If not, provide details about how
+  often the problem happens** and under which conditions it usually happens.
 
 Include details about your configuration and environment:
 
@@ -182,12 +177,12 @@ Include details about your configuration and environment:
 ## Suggesting enhancements
 
 This section guides you through submitting an enhancement suggestion for {project-name},
-including completely new features and minor improvements to existing functionality.
+including new features and minor improvements to existing functionality.
 Following these guidelines helps maintainers and the community understand your
-suggestion and find related suggestions.
+suggestion and find related reports.
 
 Before creating enhancement suggestions, please check [this list](#before-submitting-an-enhancement-suggestion)
-as you might find out that you don't need to create one. When you are creating
+as you might find out that you don't need to create one. When you create
 an enhancement suggestion, please [include as many details as possible](#how-do-i-submit-a-good-enhancement-suggestion).
 Fill in [the template][new-issue], including the steps that you imagine
 you would take if the feature you're requesting existed.
@@ -197,42 +192,48 @@ you would take if the feature you're requesting existed.
 <!-- URL to Github Release or npm package? -->
 - **Check if you're using the latest version of {display-name}**
 	and if you can get the desired behavior by changing {display-name}'s options/settings.
-- **Check if there's already a plugin which provides that enhancement.**
+- **Check if there's already a plugin that provides that enhancement.**
 - **Perform a search on GitHub and Google** to see if the enhancement has already
-  been suggested. If it has, add a comment to the existing issue instead of
+  been suggested. If it has, comment on the existing issue instead of
   opening a new one.
 
 #### How Do I Submit A (Good) Enhancement Suggestion?
 
-Enhancement suggestions are tracked as [GitHub issues][issues]. Create an issue on that repository and provide the following information:
+Enhancement suggestions are tracked as [GitHub issues][issues].
+Create an issue on the repository and provide the following information:
 
 - **Use a clear and descriptive title** for the issue to identify the suggestion.
-- **Provide a step-by-step description of the suggested enhancement** in as many details as possible.
-- **Provide specific examples to demonstrate the steps**. Include copy/paste-able snippets which you use in those examples, as [Markdown code blocks][md-code-block].
+- **Provide a description of the suggested enhancement** in as many details as possible.
+- **Provide specific examples to demonstrate the steps**. Include copy/paste-able
+  snippets which you use in those examples, as Markdown code blocks.
 - **Describe the current behavior** and **explain which behavior you expected to see instead** and why.
-- **Include screenshots and animated GIFs** which help you demonstrate the steps or point out the part of {display-name} which the suggestion is related to. If you use the keyboard while following the steps, record the GIF with a keybinding visualizer like [Keycastr][keycastr] **(There is also a quick hack for doing this in macos – Simply turn on Sticky keys)**. You can use [this tool][licecap] to record GIFs on macOS and Windows, and [this tool][silentcast] on Linux.
-- **Explain why this enhancement would be useful** to most {display-name} users.
+- **Include screenshots and animated GIFs** which help you demonstrate the steps
+  or point out the part of {display-name} which the suggestion is related to.
+  If you use the keyboard while following the steps, record the GIF with a
+  keybinding visualizer like [Keycastr][keycastr]. You can use [this tool][licecap]
+  to record GIFs on macOS and Windows, and [this tool][silentcast] on Linux.
+- **Explain why this enhancement would be helpful** to most {display-name} users.
   <!-- and isn't something that can or should be implemented as a community package. -->
 - **List some other projects** where this enhancement exists.
-- **Specify which version** of {display-name} you are using, as there is the
-  probability that this enhancement has already been implemented in a future version
+- **Specify which version** of {display-name} you are using. Sometimes the enhancement
+  you would like has already been implemented in a future version.
   <!-- You can get the exact version of {display-name} by looking at the package.json -->
 
 ### Your first code contribution
 
-Want to help, but not sure what to do? You can go through the [issues][issues],
-or go to the [contributing page][contributing]
+Want to help but are not sure what to do? You can go through the [issues][issues],
+or go to the [contributing page][contributing].
 
 <!--
-List out the names of labels which are suitable, ie. `help-wanted`, etc.
+List out the names of labels that have been approved. For example: `help-wanted`, etc.
 Here's an example:
 -->
 
 Or, you can look through these issues:
 - [Help wanted](https://github.com/search?q=is%3Aopen+is%3Aissue+label%3Ahelp-wanted+user%3Agithub-username+sort%3Acomments-desc&type=issues)
 
-The issue lists are sorted by total number of comments. While not perfect,
-number of comments is a reasonable proxy for impact a given change will have.
+The issue lists are sorted by the total number of comments. While not perfect, it gives a reasonable idea of the impact a given change will have.
+
 ### Local Development
 
 If you see a bug in {display-name}, or just want to experiment with it, you can
@@ -246,6 +247,9 @@ To get a local copy, follow these steps:
 2.  **Cloning and setting up**
 
     Once you have a fork, you can clone it:
+    <!--
+    Use the console language because it highlights the prompt.
+    -->
     ```console
     you@computer$ git clone https://github.com/your-username/{repo-name{.git
     ```
@@ -256,10 +260,16 @@ To get a local copy, follow these steps:
     ```
 
     <!--
-    Fill in installation instructions here.
+    Fill in instructions for installing dependencies here
     Here's an example:
     -->
-    And you can install dependencies by running `npm install`. Now, you are
+    And you can install dependencies by running:
+
+    ```console
+    you@computer$ npm install
+    ```
+
+    Now, you are
     ready to start hacking with {display-name}
 
 #### Running
@@ -268,29 +278,42 @@ To get a local copy, follow these steps:
 Show how to run your program locally. Here's an example:
 -->
 
-You can start a dev server by running `npm run start`.
-This will start a lightweight, hot reloading server. All changes
+You can start a dev server by running:
+
+```console
+you@computer$ npm run start
+```
+
+This will load a lightweight, hot reloading server. All changes
 will be reflected automatically.
 
 #### Building
 
 <!--
-Include this if there is a certain build step.
-
+Include this if there is a build step.
 -->
-To build the code, run `npm run build`. This will run {build-tool}.
+
+To build the code, run:
+
+ ```console
+you@computer$ npm run build
+```
+
+This will run {build-tool} to build the code.
 
 #### Testing
 
-Tests are located in the `/tests` folder. After writing your code, you can run tests
-by running `npm run test`.
+Tests are located in the `/tests` folder. After writing your code, you can run tests by running:
+
+```console
+you@computer$ npm run test
+```
 
 We use {test-framework} to write tests.
 
 ### Pull requests
 
-If you have made any changes to the code and you want to add the changes to
-{display-name}, you can open a PR.
+If you have made any changes to the code and you want to add the changes to {display-name}, you can open a PR.
 
 You can follow the [GitHub pull request tutorial](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)
 If you don't know how to open a Pull Request or what a Pull Request is.
@@ -298,24 +321,24 @@ If you don't know how to open a Pull Request or what a Pull Request is.
 Before you open a Pull Request:
 - Follow the [styleguides](#styleguides)
 - Write tests
-- Follow the instructions in the pull requests template
+- Follow the instructions in the Pull request's template
 <!-- - After you open the Pull request, make sure all status checks are passing -->
 
 ## Styleguides
 
 ### Git commit messages
 
-- Use the present tense ("Add thing" not "Added thing")
-- Use the imperative mood ("Do this" not "Does this")
-- Limit the first line to 72
+- Use the present tense ("Add this..", not "Added this...")
+- Use the imperative mood ("Do this...", not "Does this...")
+- Limit the first line to 72 characters
 <!-- - When only changing documentation, include [ci skip] in the commit title -->
-- Consider starting your commit messages with an applicable [gitmoji](gitmoji.dev):
+- Consider starting your commit messages with an applicable [Gitmoji](https://gitmoji.dev):
 
 <!--
-If you any styleguides, add it/link to it here
+If you follow any style guides, add it/link to it here
 You can also say which linter, if any, is used to lint code.
 
-You might want to add styleguides for
+You might want to add style guides for
 - programming languages,
 - tests,
 - documentation,

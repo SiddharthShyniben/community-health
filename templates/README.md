@@ -22,7 +22,7 @@ Keep a lookout for text in curly braces.
 Core concepts
 =============
 
-Your README should be a gateway to all other resource. It should answer these
+Your README should be a gateway to all other resources. It should answer these
 questions as fast as possible:
 1. What is the project for? (A short description)
 2. Can I use it? (Prerequisites)
@@ -108,7 +108,7 @@ Images
 ======
 
 You can place a logo or a banner image near the top of the README.
-Don't place both, if you want to just place the logo in the banner.
+Don't place both, just place the logo in the banner.
 -->
 
 <!--
@@ -123,11 +123,10 @@ by using `<img align"right">`
 Description
 ===========
 
-This is where we start with the description. Keep it short, but convincing.
+This is where we start with the description. Keep it short but convincing.
 -->
 {display-name} is a {tool/utility/feature} which helps you to {whatever it does}.
-Additional line of info about your project. Don't go overboard, people won't
-read it.
+Additional line of info about your project. Don't go overboard. People won't read it.
 
 <!--
 Banner
@@ -149,14 +148,14 @@ Other Screenshots
 Use this space after the banner to show 2-3 screenshots (or GIFs)
 of what your project does. A picture is worth a thousand words.
 
-Only exception is don't put screenshots of code. Put the code in code blocks.
+The only exception is don't put screenshots of code. Put the code in code blocks.
 -->
 
 <!--
 Highlights
 ==========
 
-Place a list of highlights here
+Place a list of highlights here.
 -->
 
 - Fast. See {link-to-benchmarks} for more info
@@ -182,9 +181,9 @@ First, show people what they need to install this library.
 ### Prerequisites
 
 <!--
-Make sure to link to the resource needed
+Make sure to link to the resource needed.
 -->
-You need to have X and Y installed. Also, your project must X, Y and Z.
+You need to have X and Y installed. Also, your project must be X, Y, and Z.
 
 ### Installing
 
@@ -196,7 +195,7 @@ You need to have X and Y installed. Also, your project must X, Y and Z.
 To install {display-name}, run the following command:
 
 <!--
-Use the console language because it highlights the prompt
+Use the console language because it highlights the prompt.
 -->
 ```console
 you@computer~$ {install-command}
@@ -212,7 +211,7 @@ you@computer~$ {install-command}@version
 <!--
 If there are any alternate downloads, show them here.
 
-For example, you may have the option to install a core lightweight option, etc.
+For example, you may have the option to install a lightweight option, etc.
 Place them here.
 -->
 
@@ -265,7 +264,7 @@ Not sure what to contribute? Check out the [GitHub "contribute" page][contribute
 Contact
 =======
 
-Show them how they can _personally_ contact you
+Show them how they can _personally_ contact you.
 -->
 ## Contact
 
@@ -275,7 +274,7 @@ You can contact me at <{email-address}>
 License
 =======
 
-Just quickly link to the License
+Just quickly link to the license.
 -->
 ## License
 
@@ -348,3 +347,4 @@ See top for more info.
 
 [page-hits]: https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{github-username}%2F{repo-name}&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false
 -->
+

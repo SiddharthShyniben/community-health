@@ -25,14 +25,14 @@ assignees: {github-username}
 - [ ] This issue has not been reported before
 - [ ] I am on a version of {display-name} which is currently supported
       <!-- Maybe link to supported versions? -->
-- [ ] I have checked the documentation and I found no answer
+- [ ] I have checked the documentation, and I found no answer
 -
 <!--
 Extras:
 
 - [ ] I have read the debugging guide
-If your program creates file, etc:
-- [ ] I have the required permissions
+If your program needs any special permissions (eg: for writing files):
+- [ ] I have the required permissions to run the program
 For multi repo projects:
 - [ ] I'm reporting the issue to the correct repository
 -->
@@ -45,14 +45,13 @@ A clear and concise description of what the bug is.
 
 Steps to reproduce the behavior:
 
-1. Run command '...'
+1. Run the command '...'
 2. Use feature '...'
-3. See problem
+3. See the problem
 
-_How often is it reproduced? Is there a required condition?_
+_How often is it reproduced? Is there a condition?_
 
-If applicable, show how often the error occurs, and what condition is required
-for it to occur.
+If applicable, show how often the error occurs and what condition is required.
 
 **Expected behavior**
 
@@ -60,7 +59,7 @@ A clear and concise description of what you expected to happen.
 
 _What do you see instead?_
 
-What happens? If possible please provide textual output instead of screenshots.
+What happens when you do whatever you were doing?
 
 **Screenshots**
 
