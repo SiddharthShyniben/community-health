@@ -11,6 +11,7 @@ This files are not available:
 - **Code of Conduct** - May come soon, but your better off using other ones like
   the [Contributor Covenant](https://www.contributor-covenant.org/) or other ones.
 - **Issue templates** - Coming soon!
+- **Issue forms** - Might come out once it's more avilable
 - **PR templates** - Coming soon!
 - **Changelog** - Coming soon!
 - **Support** - Coming soon!
