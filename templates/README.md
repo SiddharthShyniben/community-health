@@ -88,7 +88,7 @@ their respective references at the bottom of the page.
 [![GitHub Workflow Status][workflow-status]][workflow-url]
 ![npm bundle size][npm-size]
 [![npm downloads][npm-downloads]][repo-npm]
-[![License][license]][license-url]
+[![License][license-badge]][license]
 ![Page Hits][page-hits]
 
 There's more at shields.io and at other sources. You can use them if relevant.
@@ -344,8 +344,7 @@ See top for more info.
 [npm-downloads]: https://img.shields.io/npm/dw/{repo-name}
 [repo-npm]: https://npm.im/{repo-name}
 
-[license]: https://img.shields.io/github/license/github-username/{repo-name}
-[license-url]: ./LICENSE
+[license-badge]: https://img.shields.io/github/license/{github-username}/{repo-name}
 
 [page-hits]: https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F{github-username}%2F{repo-name}&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false
 -->
