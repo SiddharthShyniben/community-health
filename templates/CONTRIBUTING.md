@@ -61,10 +61,8 @@ Before you contribute, **make sure to read the [Code of Conduct](./CODE_OF_CONDU
       <a href="#styleguides">Styleguides</a>
       <ul>
         <li><a href="#commit-messages">Commit messages</a></li>
-        <!-- <li><a href="#javascript-styleguide">Javascript Styleguide</a></li> -->
       </ul>
     </li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
   </ol>
 </details>
 
@@ -82,6 +80,7 @@ There are times when people have doubts about how things work and why they work
 that way
 -->
 ## I don't want to read this whole thing, I just have a question!!!
+
 <!--
 Add ways to ask questions here. There are many ways
 (like a chat, email, dedicated message board, etc.), but one example is given here.
@@ -321,12 +320,6 @@ You might want to add styleguides for
 - tests,
 - documentation,
 - etc.
--->
-
-## Additional notes
-
-<!--
-Add any additional notes here
 -->
 
 [discussions]: https://docs.github.com/en/discussions
