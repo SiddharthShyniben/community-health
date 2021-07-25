@@ -21,7 +21,7 @@ There are also other resources.
 > Find this useful? Give us a star!
 
 You can copy all the community health files you want. The files live at `templates/`.
-To view a full list of available (and upcoming) files, check out [available-files.md](./available-files.md)
+To view a full list of available (and upcoming) files, check out [`available-files.md`](./available-files.md)
 
 There are also other files, like [`writing-guidelines.md`](./writing-guidelines.md)
 
