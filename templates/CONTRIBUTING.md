@@ -196,15 +196,144 @@ you would take if the feature you're requesting existed.
 #### Before Submitting An Enhancement Suggestion
 
 <!-- URL to Github Release or npm package? -->
-- **Check if you're using the latest version of project_title**
-	and if you can get the desired behavior by changing project_title's options/settings.
+- **Check if you're using the latest version of {display-name}**
+	and if you can get the desired behavior by changing {display-name}'s options/settings.
 - **Check if there's already a plugin which provides that enhancement.**
 - **Perform a search on GitHub and Google** to see if the enhancement has already
   been suggested. If it has, add a comment to the existing issue instead of
-	opening a new one.
+  opening a new one.
+
+#### How Do I Submit A (Good) Enhancement Suggestion?
+
+Enhancement suggestions are tracked as [GitHub issues][issues]. Create an issue on that repository and provide the following information:
+
+- **Use a clear and descriptive title** for the issue to identify the suggestion.
+- **Provide a step-by-step description of the suggested enhancement** in as many details as possible.
+- **Provide specific examples to demonstrate the steps**. Include copy/paste-able snippets which you use in those examples, as [Markdown code blocks][md-code-block].
+- **Describe the current behavior** and **explain which behavior you expected to see instead** and why.
+- **Include screenshots and animated GIFs** which help you demonstrate the steps or point out the part of {display-name} which the suggestion is related to. If you use the keyboard while following the steps, record the GIF with a keybinding visualizer like [Keycastr][keycastr] **(There is also a quick hack for doing this in macos – Simply turn on Sticky keys)**. You can use [this tool][licecap] to record GIFs on macOS and Windows, and [this tool][silentcast] on Linux.
+- **Explain why this enhancement would be useful** to most {display-name} users.
+  <!-- and isn't something that can or should be implemented as a community package. -->
+- **List some other projects** where this enhancement exists.
+- **Specify which version** of {display-name} you are using, as there is the
+  probability that this enhancement has already been implemented in a future version
+  <!-- You can get the exact version of {display-name} by looking at the package.json -->
+
+### Your first code contribution
+
+Want to help, but not sure what to do? You can go through the [issues][issues],
+or go to the [contributing page][contributing]
+
+<!--
+List out the names of labels which are suitable, ie. `help-wanted`, etc.
+Here's an example:
+-->
+
+Or, you can look through these issues:
+- [Help wanted](https://github.com/search?q=is%3Aopen+is%3Aissue+label%3Ahelp-wanted+user%3Agithub-username+sort%3Acomments-desc&type=issues)
+
+The issue lists are sorted by total number of comments. While not perfect,
+number of comments is a reasonable proxy for impact a given change will have.
+### Local Development
+
+If you see a bug in {display-name}, or just want to experiment with it, you can
+get a local copy of the code and start playing with it.
+
+To get a local copy, follow these steps:
+
+1.  **Forking the [repo]**.
+
+    You can follow the [GitHub help instructions to do so](https://help.github.com/articles/fork-a-repo/)
+2.  **Cloning and setting up**
+
+    Once you have a fork, you can clone it:
+    ```console
+    you@computer$ git clone https://github.com/your-username/{repo-name{.git
+    ```
+
+    Next, you can navigate to your clone:
+    ```console
+    you@computer$ cd where-you-cloned-{repo-name}
+    ```
+
+    <!--
+    Fill in installation instructions here.
+    Here's an example:
+    -->
+    And you can install dependencies by running `npm install`. Now, you are
+    ready to start hacking with {display-name}
+
+#### Running
+
+<!--
+Show how to run your program locally. Here's an example:
+-->
+
+You can start a dev server by running `npm run start`.
+This will start a lightweight, hot reloading server. All changes
+will be reflected automatically.
+
+#### Building
+
+<!--
+Include this if there is a certain build step.
+
+-->
+To build the code, run `npm run build`. This will run {build-tool}.
+
+#### Testing
+
+Tests are located in the `/tests` folder. After writing your code, you can run tests
+by running `npm run test`.
+
+We use {test-framework} to write tests.
+
+### Pull requests
+
+If you have made any changes to the code and you want to add the changes to
+{display-name}, you can open a PR.
+
+You can follow the [GitHub pull request tutorial](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)
+If you don't know how to open a Pull Request or what a Pull Request is.
+
+Before you open a Pull Request:
+- Follow the [styleguides](#styleguides)
+- Write tests
+- Follow the instructions in the pull requests template
+<!-- - After you open the Pull request, make sure all status checks are passing -->
+
+## Styleguides
+
+### Git commit messages
+
+- Use the present tense ("Add thing" not "Added thing")
+- Use the imperative mood ("Do this" not "Does this")
+- Limit the first line to 72
+<!-- - When only changing documentation, include [ci skip] in the commit title -->
+- Consider starting your commit messages with an applicable [gitmoji](gitmoji.dev):
+
+<!--
+If you any styleguides, add it/link to it here
+You can also say which linter, if any, is used to lint code.
+
+You might want to add styleguides for
+- programming languages,
+- tests,
+- documentation,
+- etc.
+-->
+
+## Additional notes
+
+<!--
+Add any additional notes here
+-->
 
 [discussions]: https://docs.github.com/en/discussions
 [new-issue]: https://github.com/{github-username}/{repo-name}/issues/new/choose
+[issues]: https://github.com/{github-username}/{repo-name}/issues
+[contributing]: https://github.com/{github-username}/{repo-name}/contribute
+[repo]: https://github.com/{github-username}/{repo-name}
 
 [keycastr]: https://github.com/keycastr/keycastr
 [licecap]: https://www.cockos.com/licecap/
