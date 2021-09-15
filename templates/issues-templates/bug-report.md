@@ -8,6 +8,7 @@ If you have any suggestions, feel free to open a pull request or an issue.
 To make life easier, do a quick search-and-replace for:
 {display-name}: The project's display name (ex. Angular)
 {github-username}: The username under which the repo is (ex. angular)
+{repo-name}: The name of the repo the project (ex. angular)
 Keep a lookout for text in curly braces.
 -->
 ---
@@ -19,6 +20,13 @@ labels: bug
 assignees: {github-username}
 
 ---
+
+<!--!
+Have you read {display-name}'s Code of Conduct?
+By filing an issue, you are expected to comply with it: https://github.com/{github-username}/{repo-name}/blob/main/CODE_OF_CONDUCT.md
+
+Do you want to ask a question? Discussions are the best place for getting support: https://github.com/{github-username}/{repo-name}/discussions
+-->
 
 **Checklist**
 

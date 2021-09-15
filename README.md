@@ -25,6 +25,10 @@ To view a full list of available (and upcoming) files, check out [`available-fil
 
 There are also other files, like [`writing-guidelines.md`](./writing-guidelines.md)
 
+Each file will be highly annotated with tips, extras, and explanations.
+Occasionally, you may find a comment which starts with `<!--!`.
+These comments should be left in the files, but others can be safely removed.
+
 ## Contributing
 
 All contributions are welcome. Learn more about contributing in
