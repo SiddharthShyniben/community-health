@@ -6,6 +6,7 @@ Here's a list of available files
 - **Contributing** - Check out templates/CONTRIBUTING.md <!-- 19.82% comments -->
 - **Issue templates**
   - **Bug report template** - Check out templates/issues-templates/bug-report.md <!-- 24.41% comments -->
+  - **Feature request template** - Check out templates/issues-templates/ <!-- 24.41% comments -->
 
 This files are not available:
 
